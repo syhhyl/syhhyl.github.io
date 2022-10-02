@@ -1,28 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>syhhyl的博客</title>
+  <title>syhhyl</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://syhhyl.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2022-10-02T03:21:00.055Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://syhhyl.github.io/"/>
+  <updated>2022-10-02T04:54:11.346Z</updated>
+  <id>http://syhhyl.github.io/</id>
   
   <author>
-    <name>hyl</name>
+    <name>syhhyl</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>听歌</title>
-    <link href="http://example.com/2022/10/02/%E5%90%AC%E6%AD%8C/"/>
-    <id>http://example.com/2022/10/02/%E5%90%AC%E6%AD%8C/</id>
-    <published>2022-10-02T03:21:00.000Z</published>
-    <updated>2022-10-02T03:21:00.055Z</updated>
+    <title>光明</title>
+    <link href="http://syhhyl.github.io/2022/10/02/%E5%85%89%E6%98%8E/"/>
+    <id>http://syhhyl.github.io/2022/10/02/%E5%85%89%E6%98%8E/</id>
+    <published>2022-10-02T04:34:33.999Z</published>
+    <updated>2022-10-02T04:54:11.346Z</updated>
     
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="唉，wf啊wf，这是人能写出来的歌？"><a href="#唉，wf啊wf，这是人能写出来的歌？" class="headerlink" title="唉，wf啊wf，这是人能写出来的歌？"></a>唉，wf啊wf，这是人能写出来的歌？</h2><iframe width="1280" height="720" src="//player.bilibili.com/player.html?aid=22034352&bvid=BV1pW411L7oH&cid=36419251&page=1" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="false"> </iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
     
     
     
