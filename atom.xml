@@ -6,7 +6,7 @@
   <link href="http://syhhyl.github.io/atom.xml" rel="self"/>
   
   <link href="http://syhhyl.github.io/"/>
-  <updated>2022-10-06T13:19:32.635Z</updated>
+  <updated>2022-10-06T14:06:49.088Z</updated>
   <id>http://syhhyl.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>game</title>
+    <link href="http://syhhyl.github.io/game/"/>
+    <id>http://syhhyl.github.io/game/</id>
+    <published>2022-10-06T13:37:43.000Z</published>
+    <updated>2022-10-06T14:06:49.088Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="plane-war"><a href="#plane-war" class="headerlink" title="plane war"></a>plane war</h1><p>在翻文件时，找到自己当时写的一个小游戏。非常简单，但是源码我找不到了。只有编译后的。发出来，留个纪念。</p><h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="/./game/image-20221006214109089.png" alt="image-20221006214109089"></p><h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a><a href="https://github.com/syhhyl/xiaowanyi">下载地址</a></h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="小玩意" scheme="http://syhhyl.github.io/categories/%E5%B0%8F%E7%8E%A9%E6%84%8F/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>鸡血？</title>
