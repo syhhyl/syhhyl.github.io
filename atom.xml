@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>syhhyl</title>
   
-  
+  <subtitle>家里</subtitle>
   <link href="http://syhhyl.github.io/atom.xml" rel="self"/>
   
   <link href="http://syhhyl.github.io/"/>
