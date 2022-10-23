@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>demo</title>
-    <url>/demo/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-  </entry>
-  <entry>
     <title>送给自己</title>
     <url>/%E9%80%81%E7%BB%99%E8%87%AA%E5%B7%B1/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="送给自己"><a href="#送给自己" class="headerlink" title="送给自己"></a>送给自己</h1><p>愿你 能勇敢的辞去旧人 也能勇敢的迎接新人</p>
