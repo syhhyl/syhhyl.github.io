@@ -34,7 +34,7 @@
 <figure class="highlight shell"><table><tr><td class="code"><pre><code class="hljs shell"><span class="hljs-meta prompt_"># </span><span class="language-bash">remote_name 为远程仓库的别名</span><br><span class="hljs-meta prompt_"># </span><span class="language-bash">token就是令牌，要自己生成</span><br><span class="hljs-meta prompt_"># </span><span class="language-bash">user_name 就是你的github用户名</span><br><span class="hljs-meta prompt_"># </span><span class="language-bash">repo_name就是远程仓库名</span><br>git remote add remote_name https://Token@github.com/user_name/repo_name.git<br></code></pre></td></tr></table></figure>
 <h2 id="提交到远程仓库并合并">提交到远程仓库并合并</h2>
 <figure class="highlight shell"><table><tr><td class="code"><pre><code class="hljs shell">git push repo_name &lt;本地分支名&gt;：&lt;远程分支名&gt;<br></code></pre></td></tr></table></figure>
-<h2 id="拉去远程仓库合并到本地分支">拉去远程仓库合并到本地分支</h2>
+<h2 id="拉取远程仓库合并到本地分支">拉取远程仓库合并到本地分支</h2>
 <figure class="highlight shell"><table><tr><td class="code"><pre><code class="hljs shell">git pull repo_name &lt;远程分支名&gt;:&lt;本地分支名&gt;<br></code></pre></td></tr></table></figure>
 <hr>
 <h2 id="分支管理">分支管理</h2>
