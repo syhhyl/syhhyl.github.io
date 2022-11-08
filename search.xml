@@ -75,6 +75,16 @@
       </categories>
   </entry>
   <entry>
+    <title>one-day</title>
+    <url>/one-day/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1>世界和平，不要再打了</h1>
+<iframe src="//player.bilibili.com/player.html?aid=774765323&bvid=BV1414y1V79Z&cid=881214073&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height=500 width=180> </iframe>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+  </entry>
+  <entry>
     <title>追忆往事</title>
     <url>/%E8%BF%BD%E5%BF%86%E5%BE%80%E4%BA%8B/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1>追忆往事</h1>
