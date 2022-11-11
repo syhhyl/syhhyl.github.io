@@ -3,13 +3,19 @@
   <entry>
     <title>git基本命令</title>
     <url>/git%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1><mark>git</mark></h1>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1><mark>git基本使用</mark></h1>
+<blockquote>
+<p>ps: git的安装不再赘述，默认已经完成安装且配置好git。</p>
+</blockquote>
+<p>下面给出git使用的基本流程：</p>
+<p><img src="/home/hyl/Desktop/blog/source/_posts/git%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4.assets/image-20221111122740147.png" alt="image-20221111122740147"></p>
 <h2 id="初始化仓库">初始化仓库</h2>
 <h3 id="本地初始化">本地初始化</h3>
-<p>进入要进行git控制的项目目录（命令行），输入git init</p>
+<p>进入对应目录下，在终端中输入以下命令：</p>
 <figure class="highlight shell"><table><tr><td class="code"><pre><code class="hljs shell">git init<br></code></pre></td></tr></table></figure>
+<p>由上面的基本流程不难看出，本地初始化很少用到。一般都是克隆远程仓库。</p>
 <h3 id="克隆远程仓库">克隆远程仓库</h3>
-<p>进入你要保存远程仓库的目录，输入git clone <url>, 默认clone的仓库名与远程仓库名一致，如果要更改仓库名，url后加更改的仓库名</p>
+<p>进入你要保存远程仓库的目录，终端输入git clone <url>, 默认clone的仓库名与远程仓库名一致，如果要更改仓库名，url后加更改的仓库名。</p>
 <figure class="highlight shell"><table><tr><td class="code"><pre><code class="hljs shell"><span class="hljs-meta prompt_"># </span><span class="language-bash">默认仓库名</span><br>git clone url<br><span class="hljs-meta prompt_"></span><br><span class="hljs-meta prompt_">#</span><span class="language-bash">更改仓库名</span><br>git clone url new_name<br></code></pre></td></tr></table></figure>
 <h2 id="添加并更新文件">添加并更新文件</h2>
 <p>每个文件无非两种状态：已跟踪或未跟踪</p>
@@ -69,6 +75,22 @@
 </tr>
 </tbody>
 </table>
+<h2 id="实例演示">实例演示</h2>
+<p>天气炎热，小航闲在家里，心想：闲着也是闲着，不如实践一下昨晚刚学的git命令。<a href="http://xn--github-og8igt077ie7gq4k.com">于是他打开github.com</a>,找到了一个有趣的项目，开始了他的欢乐之旅。</p>
+<p><img src="/home/hyl/Desktop/blog/source/_posts/git%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4.assets/image-20221111123653673.png" alt="image-20221111123653673"></p>
+<p>小航找到的项目仓库，现在要把这个远程仓库clone下来。</p>
+<p><img src="/home/hyl/Desktop/blog/source/_posts/git%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4.assets/image-20221111123807660.png" alt="image-20221111123807660"></p>
+<p>按照图示，复制url。进入要保存项目的目录，在终端中输入：</p>
+<p><code>git clone url</code></p>
+<p>小航决定将项目保存在桌面，于是他打开终端，切换到桌面</p>
+<p><img src="/home/hyl/Desktop/blog/source/_posts/git%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4.assets/image-20221111124413885.png" alt="image-20221111124413885"></p>
+<p>只听见一声清脆的回车声，几秒过后，项目源代码就已经保存在桌面上了</p>
+<p><img src="/home/hyl/Desktop/blog/source/_posts/git%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4.assets/image-20221111124600168.png" alt="image-20221111124600168"></p>
+<p>打开项目目录</p>
+<p><img src="/home/hyl/Desktop/blog/source/_posts/git%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4.assets/image-20221111124710961.png" alt="image-20221111124710961"></p>
+<p>perfect</p>
+<p><a href="http://xn--README-o05jmvj09czja245rcs2bqx0a8m3a.md">然后小航就去阅读README.md</a>,试着将程序run起来。</p>
+<p>小航玩耍的很愉快。</p>
 ]]></content>
       <categories>
         <category>git</category>
