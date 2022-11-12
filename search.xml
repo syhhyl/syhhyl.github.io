@@ -77,33 +77,23 @@
 </table>
 <h2 id="实例演示">实例演示</h2>
 <p>天气炎热，小航闲在家里，心想：闲着也是闲着，不如实践一下昨晚刚学的git命令。<a href="http://xn--github-og8igt077ie7gq4k.com">于是他打开github.com</a>,找到了一个有趣的项目，开始了他的欢乐之旅。</p>
-<p><img src="/home/hyl/Desktop/blog/source/_posts/git%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4.assets/image-20221111123653673.png" alt="image-20221111123653673"></p>
+<p><img src="/home/hyl/Desktop/blog/source/_posts/git%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4/image-20221111123653673.png" alt="image-20221111123653673"></p>
 <p>小航找到的项目仓库，现在要把这个远程仓库clone下来。</p>
-<p><img src="/home/hyl/Desktop/blog/source/_posts/git%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4.assets/image-20221111123807660.png" alt="image-20221111123807660"></p>
+<p><img src="/home/hyl/Desktop/blog/source/_posts/git%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4/image-20221111123807660.png" alt="image-20221111123807660"></p>
 <p>按照图示，复制url。进入要保存项目的目录，在终端中输入：</p>
 <p><code>git clone url</code></p>
 <p>小航决定将项目保存在桌面，于是他打开终端，切换到桌面</p>
-<p><img src="/home/hyl/Desktop/blog/source/_posts/git%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4.assets/image-20221111124413885.png" alt="image-20221111124413885"></p>
+<p><img src="/home/hyl/Desktop/blog/source/_posts/git%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4/image-20221111124413885.png" alt="image-20221111124413885"></p>
 <p>只听见一声清脆的回车声，几秒过后，项目源代码就已经保存在桌面上了</p>
-<p><img src="/home/hyl/Desktop/blog/source/_posts/git%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4.assets/image-20221111124600168.png" alt="image-20221111124600168"></p>
+<p><img src="/home/hyl/Desktop/blog/source/_posts/git%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4/image-20221111124600168.png" alt="image-20221111124600168"></p>
 <p>打开项目目录</p>
-<p><img src="/home/hyl/Desktop/blog/source/_posts/git%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4.assets/image-20221111124710961.png" alt="image-20221111124710961"></p>
+<p><img src="/home/hyl/Desktop/blog/source/_posts/git%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4/image-20221111124710961.png" alt="image-20221111124710961"></p>
 <p>perfect</p>
 <p><a href="http://xn--README-o05jmvj09czja245rcs2bqx0a8m3a.md">然后小航就去阅读README.md</a>,试着将程序run起来。</p>
 <p>小航玩耍的很愉快。</p>
 ]]></content>
       <categories>
         <category>git</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>one-day</title>
-    <url>/one-day/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1>世界和平，不要再打了</h1>
-<iframe src="//player.bilibili.com/player.html?aid=774765323&bvid=BV1414y1V79Z&cid=881214073&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height=500 width=600> </iframe>
-]]></content>
-      <categories>
-        <category>随笔</category>
       </categories>
   </entry>
   <entry>
@@ -157,6 +147,16 @@
 <p>念念不忘 必有回响 岁月情长 竹马成双</p>
 <p>素净悲喜 从简安生 平安喜乐 自在如风</p>
 <p>愿我 愿我 愿我 ！！！</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>one-day</title>
+    <url>/one-day/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1>世界和平，不要再打了</h1>
+<iframe src="//player.bilibili.com/player.html?aid=774765323&bvid=BV1414y1V79Z&cid=881214073&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height=500 width=600> </iframe>
 ]]></content>
       <categories>
         <category>随笔</category>
